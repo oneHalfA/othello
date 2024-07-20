@@ -1,9 +1,7 @@
 # Reversi (Othello)
 
 Reversi, also known as Othello, is a strategy board game for two players, played on an 8×8 uncheckered board. The objective is to have the majority of your color discs on the board at the end of the game.
-
 ## Game Rules
-
 1. **Starting Position**:
    - The game starts with four discs placed in the center of the board in a square formation. The two black discs are placed on one diagonal, and the two white discs are placed on the other diagonal.
 
@@ -29,7 +27,7 @@ Reversi, also known as Othello, is a strategy board game for two players, played
 To play the game, clone this repository and build it.
 
 ```sh
-git clone https://github.com/yourusername/reversi.git
+git clone https://github.com/oneHalfA/othello.git
 cd reversi
-make
+make # or just use gcc/cc/clang to compile it on your own.
 ./exec #play the game now

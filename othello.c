@@ -96,7 +96,7 @@ int main(){
 				printf("bot? y(es) , n(o)\n");
 				scanf(" %c",&isBot);
 
-
+				clearScreen();
 				printf("wanna play previous game? (1 or 0): ");
 				scanf(" %d",&key);
 				

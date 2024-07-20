@@ -31,5 +31,5 @@ To play the game, clone this repository and build it.
 ```sh
 git clone https://github.com/oneHalfA/othello.git
 cd reversi
-make # or just use gcc/cc/clang to compile it on your own.
-./exec #play the game now
+make   # or just use gcc/cc/clang to compile it on your own.
+./exec # play the game now

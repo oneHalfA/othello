@@ -31,5 +31,5 @@ To play the game, clone this repository and build it.
 ```sh
 git clone https://github.com/oneHalfA/othello.git
 cd othello
-make   # or compile it on your own.
-./exec
+make
+./reversi
